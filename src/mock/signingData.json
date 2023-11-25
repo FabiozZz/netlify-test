@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    {
+      "name": "login",
+      "placeholder": "Введите логин"
+    },
+    {
+      "name": "password",
+      "placeholder": "Пароль"
+    }
+  ]
+}
